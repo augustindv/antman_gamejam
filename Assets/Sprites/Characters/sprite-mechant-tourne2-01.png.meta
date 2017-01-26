@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: c7e59bd38c98e63419c9570c3f6709ed
+timeCreated: 1478732008
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-mechant-tourne2-01_0
+    21300002: sprite-mechant-tourne2-01_1
+    21300004: sprite-mechant-tourne2-01_2
+    21300006: sprite-mechant-tourne2-01_3
+    21300008: sprite-mechant-tourne2-01_4
+    21300010: sprite-mechant-tourne2-01_5
+    21300012: sprite-mechant-tourne2-01_6
+    21300014: sprite-mechant-tourne2-01_7
+    21300016: sprite-mechant-tourne2-01_8
+    21300018: sprite-mechant-tourne2-01_9
+    21300020: sprite-mechant-tourne2-01_10
+    21300022: sprite-mechant-tourne2-01_11
+    21300024: sprite-mechant-tourne2-01_12
+    21300026: sprite-mechant-tourne2-01_13
+    21300028: sprite-mechant-tourne2-01_14
+    21300030: sprite-mechant-tourne2-01_15
+    21300032: sprite-mechant-tourne2-01_16
+    21300034: sprite-mechant-tourne2-01_17
+    21300036: sprite-mechant-tourne2-01_18
+    21300038: sprite-mechant-tourne2-01_19
+    21300040: sprite-mechant-tourne2-01_20
+    21300042: sprite-mechant-tourne2-01_21
+    21300044: sprite-mechant-tourne2-01_22
+    21300046: sprite-mechant-tourne2-01_23
+    21300048: sprite-mechant-tourne2-01_24
+    21300050: sprite-mechant-tourne2-01_25
+    21300052: sprite-mechant-tourne2-01_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_1
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_2
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_3
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_4
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_5
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_6
+      rect:
+        serializedVersion: 2
+        x: 8544
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_7
+      rect:
+        serializedVersion: 2
+        x: 9968
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_8
+      rect:
+        serializedVersion: 2
+        x: 11392
+        y: 4962
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_10
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_11
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_12
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_13
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_14
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_15
+      rect:
+        serializedVersion: 2
+        x: 8544
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_16
+      rect:
+        serializedVersion: 2
+        x: 9968
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_17
+      rect:
+        serializedVersion: 2
+        x: 11392
+        y: 2481
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_19
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_20
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_21
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_22
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_23
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_24
+      rect:
+        serializedVersion: 2
+        x: 8544
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_25
+      rect:
+        serializedVersion: 2
+        x: 9968
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-mechant-tourne2-01_26
+      rect:
+        serializedVersion: 2
+        x: 11392
+        y: 0
+        width: 1424.8889
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 236383d6861aa7a4f87a409b8dcd0e15
+timeCreated: 1478708979
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-gameover_0
+    21300002: sprite-gameover_1
+    21300004: sprite-gameover_2
+    21300006: sprite-gameover_3
+    21300008: sprite-gameover_4
+    21300010: sprite-gameover_5
+    21300012: sprite-gameover_6
+    21300014: sprite-gameover_7
+    21300016: sprite-gameover_8
+    21300018: sprite-gameover_9
+    21300020: sprite-gameover_10
+    21300022: sprite-gameover_11
+    21300024: sprite-gameover_12
+    21300026: sprite-gameover_13
+    21300028: sprite-gameover_14
+    21300030: sprite-gameover_15
+    21300032: sprite-gameover_16
+    21300034: sprite-gameover_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-gameover_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6487.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_1
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 6487.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_2
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 6487.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_3
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 6487.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_4
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 6487.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_6
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 4325.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_7
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 4325.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_8
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 4325.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_9
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 4325.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_11
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2163.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_12
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2163.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_13
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 2163.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_14
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2163.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_16
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite-gameover_17
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1.5
+        width: 1825.8
+        height: 2162.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
