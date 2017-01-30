@@ -208,9 +208,9 @@ public class Player : MonoBehaviour {
             Flip();
         }
 
-        // Punch out of small
+        // Punch
         sinceLastPunch += Time.deltaTime;
-        if (isSmall && punch && !objectGrabbed && sinceLastPunch > 0.3)
+        if (punch && !objectGrabbed && sinceLastPunch > 0.3)
         {
             punchSource.Play();
             animator.SetTrigger("punch");
@@ -218,7 +218,7 @@ public class Player : MonoBehaviour {
             float direction = facingRight ? 1 : -1;
             rb2D.velocity = new Vector2(direction * punchForce * Time.deltaTime * 60, 0);
             isPunching = true;
-            RaycastHit2D[] hits = Physics2D.RaycastAll(transform.position + new Vector3(0, 5, 0), facingRight ? Vector3.right : Vector3.left, 10);
+            RaycastHit2D[] hits = Physics2D.RaycastAll(transform.position + (isSmall ? new Vector3(0, 1, 0) : new Vector3(0, 15, 0)), facingRight ? Vector3.right : Vector3.left, 10);
             List<RaycastHit2D> hitsList = hits.ToList<RaycastHit2D>();
             RaycastHit2D hit = hitsList.Find(o => o.collider.gameObject.tag == "Breakable");
             if (hit.collider != null)
@@ -238,7 +238,7 @@ public class Player : MonoBehaviour {
         // Get smaller and bigger
         sinceLastSmall += Time.deltaTime;
         Vector3 trans = new Vector3(facingRight ? -1 : 1, 1, 1);
-        if ((small && sinceLastSmall > 0.2 && !objectGrabbed) || (isSmall && punch && !objectGrabbed) || !startsBig)
+        if ((small && sinceLastSmall > 0.2 && !objectGrabbed) || !startsBig)
         {
             startsBig = true;
             sinceLastSmall = 0;
